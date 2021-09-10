@@ -9,7 +9,7 @@ function App() {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-3">Empresas</h1>
+        <h1 className="text-primary py-3">Planilha de Empresas</h1>
         <div className="row px-3">
           <div className="col-sm-6">
             <h5 className="text-center text-secondary">Percentual de Sucesso</h5>
