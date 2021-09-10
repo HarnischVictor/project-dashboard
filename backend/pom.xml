@@ -8,11 +8,11 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wsdevdashboard</groupId>
+	<groupId>com.devsuperior</groupId>
 	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsvendas</name>
-	<description>Projeto desenvolvido para portfolio </description>
+	<description>Projeto de Planilha de vendas</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

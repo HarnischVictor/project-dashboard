@@ -22,11 +22,11 @@ const BarChar = () => {
     };
 
     return (
-        <Chart 
-        options={{ ...options, xaxis: mockData.labels}}
-        series={mockData.series}
-        type="bar"
-        height="240"
+        <Chart
+            options={{ ...options, xaxis: mockData.labels }}
+            series={mockData.series}
+            type="bar"
+            height="240"
 
         />
 
