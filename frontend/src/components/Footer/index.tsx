@@ -5,9 +5,13 @@ const Footer = () => {
             <div className="container">
                 <p className="text-light">App desenvolvido por <a href="https://github.com/HarnischVictor" target="_blank" rel="noreferrer">Harnisch, Victor</a></p>
                 <p className="text-light"><small><strong>Semana Spring React</strong><br />
-                    Projeto de Estudo e divulgação: <a href="https://www.linkedin.com/in/victor-harnisch/" target="_blank" rel="noreferrer">@harnisch</a></small></p>
+                    Contato para Novos Projetos e contratação: <a href="https://www.linkedin.com/in/victor-harnisch/" target="_blank" rel="noreferrer">@LinkedIn</a></small></p>
+
             </div>
-        </footer>
+            <div>
+            <p><small>
+                     Evento promovido pela escola DevSuperior: <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">@devsuperior.ig</a></small></p></div>
+        </footer >
     );
 }
 

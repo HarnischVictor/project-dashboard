@@ -8,11 +8,11 @@
 		<version>2.5.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
+	<groupId>com.rbarreto</groupId>
 	<artifactId>dsvendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>dsvendas</name>
-	<description>Projeto de Planilha de vendas</description>
+	<description>Projeto desenvolvido na Semana Spring React da DevSuperior.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
